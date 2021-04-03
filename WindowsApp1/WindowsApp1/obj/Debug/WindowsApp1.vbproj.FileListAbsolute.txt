@@ -1,0 +1,13 @@
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\bin\Debug\BDD_Salsamentaria_1.accdb
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+c:\users\puerco araña\source\repos\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6appIterator_Brian_Ardila", "6appIterator_Brian_Ardila\6appIterator_Brian_Ardila.csproj", "{DCD26A29-32BA-4468-B316-DD6D6B6FB92F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DCD26A29-32BA-4468-B316-DD6D6B6FB92F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCD26A29-32BA-4468-B316-DD6D6B6FB92F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCD26A29-32BA-4468-B316-DD6D6B6FB92F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCD26A29-32BA-4468-B316-DD6D6B6FB92F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A73A2BEE-F6F7-4E45-B66B-542B0510302F}
+	EndGlobalSection
+EndGlobal

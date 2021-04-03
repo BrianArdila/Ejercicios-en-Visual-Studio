@@ -1,0 +1,7 @@
+C:\Users\Puerco araña\source\repos\appEvalFinal_Brian_Ardila\appEvalFinal_Brian_Ardila\obj\Debug\appEvalFinal_Brian_Ardila.csprojAssemblyReference.cache
+C:\Users\Puerco araña\source\repos\appEvalFinal_Brian_Ardila\appEvalFinal_Brian_Ardila\obj\Debug\appEvalFinal_Brian_Ardila.csproj.CoreCompileInputs.cache
+C:\Users\Puerco araña\source\repos\appEvalFinal_Brian_Ardila\appEvalFinal_Brian_Ardila\bin\Debug\appEvalFinal_Brian_Ardila.exe.config
+C:\Users\Puerco araña\source\repos\appEvalFinal_Brian_Ardila\appEvalFinal_Brian_Ardila\bin\Debug\appEvalFinal_Brian_Ardila.exe
+C:\Users\Puerco araña\source\repos\appEvalFinal_Brian_Ardila\appEvalFinal_Brian_Ardila\bin\Debug\appEvalFinal_Brian_Ardila.pdb
+C:\Users\Puerco araña\source\repos\appEvalFinal_Brian_Ardila\appEvalFinal_Brian_Ardila\obj\Debug\appEvalFinal_Brian_Ardila.exe
+C:\Users\Puerco araña\source\repos\appEvalFinal_Brian_Ardila\appEvalFinal_Brian_Ardila\obj\Debug\appEvalFinal_Brian_Ardila.pdb

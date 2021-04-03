@@ -1,0 +1,7 @@
+c:\users\puerco araña\source\repos\AppArbolBinario_Brian_Ardila\AppArbolBinario_Brian_Ardila\bin\Debug\AppArbolBinario_Brian_Ardila.exe.config
+c:\users\puerco araña\source\repos\AppArbolBinario_Brian_Ardila\AppArbolBinario_Brian_Ardila\bin\Debug\AppArbolBinario_Brian_Ardila.exe
+c:\users\puerco araña\source\repos\AppArbolBinario_Brian_Ardila\AppArbolBinario_Brian_Ardila\bin\Debug\AppArbolBinario_Brian_Ardila.pdb
+c:\users\puerco araña\source\repos\AppArbolBinario_Brian_Ardila\AppArbolBinario_Brian_Ardila\obj\Debug\AppArbolBinario_Brian_Ardila.csprojAssemblyReference.cache
+c:\users\puerco araña\source\repos\AppArbolBinario_Brian_Ardila\AppArbolBinario_Brian_Ardila\obj\Debug\AppArbolBinario_Brian_Ardila.csproj.CoreCompileInputs.cache
+c:\users\puerco araña\source\repos\AppArbolBinario_Brian_Ardila\AppArbolBinario_Brian_Ardila\obj\Debug\AppArbolBinario_Brian_Ardila.exe
+c:\users\puerco araña\source\repos\AppArbolBinario_Brian_Ardila\AppArbolBinario_Brian_Ardila\obj\Debug\AppArbolBinario_Brian_Ardila.pdb

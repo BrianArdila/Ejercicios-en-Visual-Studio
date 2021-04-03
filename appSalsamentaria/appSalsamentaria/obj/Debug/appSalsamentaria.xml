@@ -1,0 +1,904 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+appSalsamentaria
+</name>
+</assembly>
+<members>
+<member name="T:appSalsamentaria.My.Resources.Resources">
+<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member>
+<member name="P:appSalsamentaria.My.Resources.Resources.ResourceManager">
+<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member>
+<member name="P:appSalsamentaria.My.Resources.Resources.Culture">
+<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.ClienteDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.Detalles_PedidoDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.FacturaDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.InventarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.Inventario_ProveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.ProveedorDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.RolDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.UsuarioDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.Usuario_RolDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.ClienteRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.Detalles_PedidoRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.FacturaRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.InventarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.Inventario_ProveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.ProveedorRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.RolRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.UsuarioRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.Usuario_RolRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.ClienteRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.Detalles_PedidoRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.FacturaRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.InventarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.Inventario_ProveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.ProveedorRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.RolRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.UsuarioRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSet.Usuario_RolRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.ClienteTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.Detalles_PedidoTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.FacturaTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.InventarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.Inventario_ProveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.ProveedorTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.RolTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.UsuarioTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.Usuario_RolTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(appSalsamentaria.BDD_Salsamentaria_1DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(appSalsamentaria.BDD_Salsamentaria_1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(appSalsamentaria.BDD_Salsamentaria_1DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.TableAdapterManager.UpdateAll(appSalsamentaria.BDD_Salsamentaria_1DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:appSalsamentaria.BDD_Salsamentaria_1DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="M:appSalsamentaria.Cliente.RevisarTexTBox(System.Windows.Forms.Control)">
+ <summary>
+ Revisa si los textbox tienen información
+ </summary>
+ <param name="Vacio"></param>
+</member>
+<member name="M:appSalsamentaria.Cliente.VaciarTexTBox(System.Windows.Forms.Control)">
+ <summary>
+ Vacia los textbox
+ </summary>
+</member>
+<member name="M:appSalsamentaria.Cliente.ActualizarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Actualiza los datos de la tabla usuario y mantiene los textboxs vacios
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Cliente.Cliente_Load(System.Object,System.EventArgs)">
+ <summary>
+ carga la base de datos antes de mostrar el form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Cliente.AgregarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Inserta datos nuevos a la tabla
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Cliente.EliminarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Elimina una fila de la tabla 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Cliente.BuscarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Busca datos por medio de la cedula
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Cliente.ModificarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Modifica datos de la tabla 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Cliente.CedulaTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Configuraciones.AbrirFormInPanel(System.Object)">
+ <summary>
+ Abre los From como hijos del panel principal
+ </summary>
+ <param name="formHijo"></param>
+</member>
+<member name="M:appSalsamentaria.Configuraciones.CambioTemaBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Abrimos el form temas
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Configuraciones.HoraBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Abrimos el form Manual
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Configuraciones.InfoContactoBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Abrimos el form Informacion de contacto
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Configuraciones.VolverBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Nos lleva a el panel principal
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Configuraciones.Configuraciones_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+ <summary>
+ Siempre que se cierre debe devolver a el panel principal
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Factura.RevisarTexTBox(System.Windows.Forms.Control)">
+ <summary>
+ Revisa si los textbox tienen información
+ </summary>
+ <param name="Vacio"></param>
+</member>
+<member name="M:appSalsamentaria.Factura.VaciarTexTBox(System.Windows.Forms.Control)">
+ <summary>
+ Vacia los textbox
+ </summary>
+</member>
+<member name="M:appSalsamentaria.Factura.RegistrarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Graba los datos en las tablas 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Factura.BuscarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Busca en la tabla inventario
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Factura.AgregarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Agrega el Registro al DataGridView
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Factura.FacturaDataGridView_CellContentClick(System.Object,System.Windows.Forms.DataGridViewCellEventArgs)">
+ <summary>
+ Elimina el Registro de la fila seleccionada
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Factura.NuevoBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Vacia los textboxs para agregar un nuevo registro
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Factura.CantidadTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Factura.Vlr_UnidadTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Factura.CedulaTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Factura.BuscarClienteBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Busca en la tabla Cliente
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inicio.Inicio_Load(System.Object,System.EventArgs)">
+ <summary>
+ Carga la fecha y la hora
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inicio.Timer1_Tick(System.Object,System.EventArgs)">
+ <summary>
+ Nos cuenta los segundos
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Login.Login_Load(System.Object,System.EventArgs)">
+ <summary>
+ Al cargar la aplicación, intenta conectarse a la base de datos
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Login.LbOlvContraseña_LinkClicked(System.Object,System.Windows.Forms.LinkLabelLinkClickedEventArgs)">
+ <summary>
+ Redirecciona a Recuperar_Contraseña
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Login.EntrarBTT_Click_1(System.Object,System.EventArgs)">
+ <summary>
+ Función que se encarga de Comparar  los datos a la tabla
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Login.Timer1_Tick(System.Object,System.EventArgs)">
+ <summary>
+ Evento que se activa despues de haber pasado los 5 sg
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inventario.RevisarTexTBox(System.Windows.Forms.Control)">
+ <summary>
+ Revisa si los textbox tienen información
+ </summary>
+ <param name="Vacio"></param>
+</member>
+<member name="M:appSalsamentaria.Inventario.VaciarTexTBox(System.Windows.Forms.Control)">
+ <summary>
+ Vacia los textbox
+ </summary>
+</member>
+<member name="M:appSalsamentaria.Inventario.Inventario_Load(System.Object,System.EventArgs)">
+ <summary>
+ Carga la base de datos antes de mostrar el form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inventario.AgregarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ agrega datos a la base de datos 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inventario.ModificarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Modifica los datos del inventario
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inventario.ActualizarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Carga las tablas de la base de datos
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inventario.EliminarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Elimina un dato de la tabla
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inventario.BuscarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Buscar un dato en la tabla inventario
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inventario.Vlr_CompraTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inventario.CantidadTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Inventario.Precio_VentaTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.AbrirFormInPanel(System.Object)">
+ <summary>
+ Abre los From como hijos del panel principal
+ </summary>
+ <param name="formHijo"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.HomeBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Muestra el inicio del panel principal
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.SalirBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Sale del sistema
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.ProveedorBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Redirige a el form Proveedor
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.ClienteBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Redirige ael form Cliente
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.FacturaBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Redirige a el form Factura
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.InventarioBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Redirige a el form Inventario
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.RetraerMenu_Click(System.Object,System.EventArgs)">
+ <summary>
+ RetraerMenu
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.Panel_Principal_FormClosing(System.Object,System.Windows.Forms.FormClosingEventArgs)">
+ <summary>
+ Mensaje al boton de cerrar
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.AjustesBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Redirige a el from Ajustes
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.UsuariosBTT_Click_1(System.Object,System.EventArgs)">
+ <summary>
+ Redirige a el form Usuarios
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.RetraerMenu_MouseEnter(System.Object,System.EventArgs)">
+ <summary>
+ Aplica funcion ToolTip  en RetraerMenu
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.SalirBTT_MouseEnter(System.Object,System.EventArgs)">
+ <summary>
+ Aplica funcion ToolTip en Salir
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.HomeBTT_MouseEnter(System.Object,System.EventArgs)">
+ <summary>
+ Aplica funcion ToolTip en home
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.InventarioBTT_MouseEnter(System.Object,System.EventArgs)">
+ <summary>
+ Aplica funcion ToolTip en inventario
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.ProveedorBTT_MouseEnter(System.Object,System.EventArgs)">
+ <summary>
+ Aplica funcion ToolTip en Proveedor
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.ClienteBTT_MouseEnter(System.Object,System.EventArgs)">
+ <summary>
+ Aplica funcion ToolTip en Cliente
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.FacturaBTT_MouseEnter(System.Object,System.EventArgs)">
+ <summary>
+ Aplica funcion ToolTip en Factura
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.AjustesBTT_MouseEnter(System.Object,System.EventArgs)">
+ <summary>
+ Aplica funcion ToolTip en Ajustes
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.UsuariosBTT_MouseEnter(System.Object,System.EventArgs)">
+ <summary>
+ Aplica funcion ToolTip en Usuarios
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.Panel_Principal_Load(System.Object,System.EventArgs)">
+ <summary>
+ Cambia el estilo del form antes de mostral el form 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Panel_Principal.Panel_Principal_FormClosed(System.Object,System.Windows.Forms.FormClosedEventArgs)">
+ <summary>
+ Se activa para cerrar completamente la aplicacion
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.RevisarTexTBox(System.Windows.Forms.Control)">
+ <summary>
+ Revisa si los textbox tienen información
+ </summary>
+ <param name="Vacio"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.VaciarTexTBox(System.Windows.Forms.Control)">
+ <summary>
+ Vacia los textbox
+ </summary>
+</member>
+<member name="M:appSalsamentaria.Proveedor.ActualizarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Actualiza los datos de la tabla usuario y mantiene los textboxs vacios
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.Proveedor_Load(System.Object,System.EventArgs)">
+ <summary>
+ Carga la base de datos antes de mostrar el form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.AgregarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Inserta datos nuevos a la tabla
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.EliminarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Elimina una fila de la tabla 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.BuscarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Busca datos por medio de la cedula
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.ModificarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Modifica datos de la tabla 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.TelefonoTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir numeros 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.NITTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escrbir numero con signos de puntuacion
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.NITBuscarTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escrbir numero con signos de puntuacion
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.MarcaTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ solo deja escribir letras
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Proveedor.Nombre_EmpresaTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Permite escribir solo letras y signos de puntuacion
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Recuperar_Contraseña.Recuperar_Contraseña_Load(System.Object,System.EventArgs)">
+ <summary>
+ Carga datos en la tabla Usuario y vacia text box
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Recuperar_Contraseña.EnviarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Genera un envio al correo electronico con los datos de login
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Temas.AplicarTema">
+ <summary>
+ Carga la ruta del tema a aplicar
+ </summary>
+</member>
+<member name="M:appSalsamentaria.Temas.AplicarTemaBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Carga el tema escogio
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Temas.TemasComboBox_SelectedIndexChanged(System.Object,System.EventArgs)">
+ <summary>
+ Cambia la imagen dependiendo el tema selecionado
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.RevisarTexTBox(System.Windows.Forms.Control)">
+ <summary>
+ Revisa si los textbox tienen información
+ </summary>
+ <param name="Vacio"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.VaciarTexTBox(System.Windows.Forms.Control)">
+ <summary>
+ Vacia los textbox
+ </summary>
+</member>
+<member name="M:appSalsamentaria.Usuarios.ActualizarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Actualiza el form y las base de datos
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.Usuarios_Load(System.Object,System.EventArgs)">
+ <summary>
+ carga datos en la tabla y los textboxs vacios al cargar el form
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.AgregarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Inserta datos nuevos a la tabla
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.EliminarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Elimina una fila de la tabla 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.BuscarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Busca datos por medio de la cedula
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.ModificarBTT_Click(System.Object,System.EventArgs)">
+ <summary>
+ Modifica datos de la tabla 
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.TelefonoTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo deja escribir numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.CedulaTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.CdBuscarTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite ingresar numeros
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.ApellidoTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir letras
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+<member name="M:appSalsamentaria.Usuarios.NombreTextBox_KeyPress(System.Object,System.Windows.Forms.KeyPressEventArgs)">
+ <summary>
+ Solo permite escribir letras
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+</member>
+</members>
+</doc>

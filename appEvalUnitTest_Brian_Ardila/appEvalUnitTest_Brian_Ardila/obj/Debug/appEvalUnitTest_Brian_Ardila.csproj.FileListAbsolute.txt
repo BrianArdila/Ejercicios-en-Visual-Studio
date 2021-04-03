@@ -1,0 +1,10 @@
+C:\Users\Puerco araña\source\repos\appEvalUnitTest_Brian_Ardila\appEvalUnitTest_Brian_Ardila\obj\Debug\appEvalUnitTest_Brian_Ardila.csprojAssemblyReference.cache
+C:\Users\Puerco araña\source\repos\appEvalUnitTest_Brian_Ardila\appEvalUnitTest_Brian_Ardila\obj\Debug\appEvalUnitTest_Brian_Ardila.csproj.CoreCompileInputs.cache
+C:\Users\Puerco araña\source\repos\appEvalUnitTest_Brian_Ardila\appEvalUnitTest_Brian_Ardila\bin\Debug\appEvalUnitTest_Brian_Ardila.exe.config
+C:\Users\Puerco araña\source\repos\appEvalUnitTest_Brian_Ardila\appEvalUnitTest_Brian_Ardila\bin\Debug\appEvalUnitTest_Brian_Ardila.exe
+C:\Users\Puerco araña\source\repos\appEvalUnitTest_Brian_Ardila\appEvalUnitTest_Brian_Ardila\bin\Debug\appEvalUnitTest_Brian_Ardila.pdb
+C:\Users\Puerco araña\source\repos\appEvalUnitTest_Brian_Ardila\appEvalUnitTest_Brian_Ardila\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Puerco araña\source\repos\appEvalUnitTest_Brian_Ardila\appEvalUnitTest_Brian_Ardila\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Puerco araña\source\repos\appEvalUnitTest_Brian_Ardila\appEvalUnitTest_Brian_Ardila\obj\Debug\appEvalUnitTest_Brian_Ardila.csproj.CopyComplete
+C:\Users\Puerco araña\source\repos\appEvalUnitTest_Brian_Ardila\appEvalUnitTest_Brian_Ardila\obj\Debug\appEvalUnitTest_Brian_Ardila.exe
+C:\Users\Puerco araña\source\repos\appEvalUnitTest_Brian_Ardila\appEvalUnitTest_Brian_Ardila\obj\Debug\appEvalUnitTest_Brian_Ardila.pdb

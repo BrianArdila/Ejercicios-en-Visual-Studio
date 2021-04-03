@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1062
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Taller 2 – Patrones de Diseño", "Taller 2 – Patrones de Diseño\Taller 2 – Patrones de Diseño.csproj", "{BB7B61FA-A9E9-42E4-AF9B-5ECD0A922E4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB7B61FA-A9E9-42E4-AF9B-5ECD0A922E4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB7B61FA-A9E9-42E4-AF9B-5ECD0A922E4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB7B61FA-A9E9-42E4-AF9B-5ECD0A922E4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB7B61FA-A9E9-42E4-AF9B-5ECD0A922E4B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {507F9CCF-0792-44ED-8C25-142313C531D1}
+	EndGlobalSection
+EndGlobal

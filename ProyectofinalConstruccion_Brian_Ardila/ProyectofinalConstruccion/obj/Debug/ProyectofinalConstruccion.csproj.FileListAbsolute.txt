@@ -1,0 +1,7 @@
+C:\Users\Puerco araña\source\repos\ProyectofinalConstruccion\ProyectofinalConstruccion\bin\Debug\ProyectofinalConstruccion.exe.config
+C:\Users\Puerco araña\source\repos\ProyectofinalConstruccion\ProyectofinalConstruccion\bin\Debug\ProyectofinalConstruccion.exe
+C:\Users\Puerco araña\source\repos\ProyectofinalConstruccion\ProyectofinalConstruccion\bin\Debug\ProyectofinalConstruccion.pdb
+C:\Users\Puerco araña\source\repos\ProyectofinalConstruccion\ProyectofinalConstruccion\obj\Debug\ProyectofinalConstruccion.csprojAssemblyReference.cache
+C:\Users\Puerco araña\source\repos\ProyectofinalConstruccion\ProyectofinalConstruccion\obj\Debug\ProyectofinalConstruccion.csproj.CoreCompileInputs.cache
+C:\Users\Puerco araña\source\repos\ProyectofinalConstruccion\ProyectofinalConstruccion\obj\Debug\ProyectofinalConstruccion.exe
+C:\Users\Puerco araña\source\repos\ProyectofinalConstruccion\ProyectofinalConstruccion\obj\Debug\ProyectofinalConstruccion.pdb

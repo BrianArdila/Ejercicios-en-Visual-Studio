@@ -1,0 +1,112 @@
+[
+  {
+    "Raza": "Afgano",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Akita",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+
+  },
+  {
+    "Raza": "American Bully",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "American Pitbull Terrier",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Beagle",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "35.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Bichon Frise",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Bichon Maltes",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Bodeguero Andaluz",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Border Collie",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Border Terrier",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Boxer",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "40.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Bulldog",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Caniche",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Chihuahua",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Chow Chow",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Golden Retriever",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Labrador Retriever",
+    "PesoMinimoRecomendado": "8.0",
+    "PesoMaximoRecomendado": "14.0",
+    "EsperanzaDeVida": "14"
+  },
+  {
+    "Raza": "Raposero Americano",
+    "PesoMinimoRecomendado": "20.0",
+    "PesoMaximoRecomendado": "28.0",
+    "EsperanzaDeVida": "14"
+  }
+]
+ 

@@ -1,0 +1,7 @@
+C:\Users\Puerco araña\source\repos\Taller 2 – Patrones de Diseño\Taller 2 – Patrones de Diseño\bin\Debug\Taller 2 – Patrones de Diseño.exe.config
+C:\Users\Puerco araña\source\repos\Taller 2 – Patrones de Diseño\Taller 2 – Patrones de Diseño\bin\Debug\Taller 2 – Patrones de Diseño.exe
+C:\Users\Puerco araña\source\repos\Taller 2 – Patrones de Diseño\Taller 2 – Patrones de Diseño\bin\Debug\Taller 2 – Patrones de Diseño.pdb
+C:\Users\Puerco araña\source\repos\Taller 2 – Patrones de Diseño\Taller 2 – Patrones de Diseño\obj\Debug\Taller 2 – Patrones de Diseño.csprojAssemblyReference.cache
+C:\Users\Puerco araña\source\repos\Taller 2 – Patrones de Diseño\Taller 2 – Patrones de Diseño\obj\Debug\Taller 2 – Patrones de Diseño.csproj.CoreCompileInputs.cache
+C:\Users\Puerco araña\source\repos\Taller 2 – Patrones de Diseño\Taller 2 – Patrones de Diseño\obj\Debug\Taller 2 – Patrones de Diseño.exe
+C:\Users\Puerco araña\source\repos\Taller 2 – Patrones de Diseño\Taller 2 – Patrones de Diseño\obj\Debug\Taller 2 – Patrones de Diseño.pdb

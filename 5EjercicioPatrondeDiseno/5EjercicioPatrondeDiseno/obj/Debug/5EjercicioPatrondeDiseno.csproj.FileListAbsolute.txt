@@ -1,0 +1,7 @@
+C:\Users\Puerco araña\source\repos\5EjercicioPatrondeDiseno\5EjercicioPatrondeDiseno\obj\Debug\5EjercicioPatrondeDiseno.csprojAssemblyReference.cache
+C:\Users\Puerco araña\source\repos\5EjercicioPatrondeDiseno\5EjercicioPatrondeDiseno\obj\Debug\5EjercicioPatrondeDiseno.csproj.CoreCompileInputs.cache
+C:\Users\Puerco araña\source\repos\5EjercicioPatrondeDiseno\5EjercicioPatrondeDiseno\bin\Debug\5EjercicioPatrondeDiseno.exe.config
+C:\Users\Puerco araña\source\repos\5EjercicioPatrondeDiseno\5EjercicioPatrondeDiseno\bin\Debug\5EjercicioPatrondeDiseno.exe
+C:\Users\Puerco araña\source\repos\5EjercicioPatrondeDiseno\5EjercicioPatrondeDiseno\bin\Debug\5EjercicioPatrondeDiseno.pdb
+C:\Users\Puerco araña\source\repos\5EjercicioPatrondeDiseno\5EjercicioPatrondeDiseno\obj\Debug\5EjercicioPatrondeDiseno.exe
+C:\Users\Puerco araña\source\repos\5EjercicioPatrondeDiseno\5EjercicioPatrondeDiseno\obj\Debug\5EjercicioPatrondeDiseno.pdb
